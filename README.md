@@ -20,7 +20,7 @@ My journey focuses on deep fundamentals, hands-on projects, and end-to-end syste
 
 🌐 Portfolio & Links
 
-🌍 Portfolio Website: https://krish-patel-portfolio.netlify.app/
+🌍 Portfolio Website: [https://krish-patel-portfolio.netlify.app/](https://krish-patel-portfolio-277419578981.asia-southeast1.run.app)
 
 💻 GitHub: https://github.com/Krishp285
 
